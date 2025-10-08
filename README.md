@@ -2,6 +2,9 @@
 
 TEAM 02 
 
+https://drive.google.com/drive/folders/1yi0DRXDqoyhQtUEpk2BHwbaxrMNs24BP?usp=sharing
+PROJECT VIDEO DEMO/PITCHING 
+
 TEAM MEMBERS’ NAMES 
 
 OGUNJIMI ESTHER - Team lead 
@@ -756,13 +759,21 @@ Lastly, the AI should function as a complementary tool, not a replacement, for h
 REFERENCES : 
 
 CHAT GPT
+
 GEMINI 
+
 General knowledge 
+
 github.com 
+
 Google 
+
 https://share.google/GZIfUqO328ahwrXtj
+
 https://share.google/hyBqBQwKdUjaTcHtE
+
 https://share.google/images/9RdmfaUjCLzHJykxu
+
 https://share.google/rX8NIvKkOs9SUBMr4
 
 NLP Libraries 
